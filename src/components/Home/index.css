@@ -1,0 +1,21 @@
+.bgContainer1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.successView {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 80vh;
+}
+.name1 {
+  color: #3b82f6;
+  font-weight: bold;
+}
+.topic {
+  color: #334155;
+  font-weight: bold;
+}
